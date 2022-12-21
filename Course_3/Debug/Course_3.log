@@ -1,0 +1,11 @@
+﻿  Course_3.cpp
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(109,56): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(154,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(169,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(186,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(217,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\Course_3\Course_3\Course_3.cpp(295,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Course_3.vcxproj -> C:\Users\Пользователь\source\repos\Course_3\Debug\Course_3.exe
